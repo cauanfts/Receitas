@@ -1,0 +1,32 @@
+.main{
+    width: 100%;
+    text-align: center;
+    font-weight: 700;
+    background-image: url('./images/fundo1.jpg');
+    background-size: cover;
+    justify-content: center;
+}
+
+.pagina{
+    display:none
+}
+
+.active{
+    display: block;
+}
+
+nav{
+    bottom: 0!important;
+    position: fixed!important;
+}
+
+img{
+    border-radius: 20px;
+}
+
+h2{
+    margin-bottom: 5px;
+}
+body{
+    background-color: rgb(255, 255, 255);
+}
